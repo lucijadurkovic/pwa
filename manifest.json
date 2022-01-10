@@ -1,0 +1,26 @@
+{
+	"name": "Naš PWA",
+	"short_name": "prvioPwa",
+	"icons": [
+		{
+			"src": "icon-144x144.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "icon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "icon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"start_url": "/index.html",
+	"display": "standalone",
+	"orientation": "natural",
+	"background_color": "#EFEFEF",
+	"theme_color": "#FFEEFF"
+}
